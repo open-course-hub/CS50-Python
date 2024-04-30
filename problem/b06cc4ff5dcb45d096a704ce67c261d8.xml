@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is a new feature in Python that allows us to format strings in a special way?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">f-strings</choice>
+      <choice correct="false">format strings</choice>
+      <choice correct="false">curly strings</choice>
+      <choice correct="false">braced strings</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>Which of the following is NOT a step in using a library?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="false">Include the appropriate header file.</choice>
+                <choice correct="false">Link the library to your program.</choice>
+                <choice correct="true">Declare the functions you want to use.</choice>
+                <choice correct="false">Compile and run your program.</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

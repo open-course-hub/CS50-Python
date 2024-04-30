@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of flags in regular expressions?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To modify the behavior of the regular expression</choice>
+      <choice correct="false">To define the characters to match</choice>
+      <choice correct="false">To specify the order of operations</choice>
+      <choice correct="false">To control the size of the matching pattern</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

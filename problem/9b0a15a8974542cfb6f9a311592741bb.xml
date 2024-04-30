@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of using the @property decorator in Python?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="false">To create a getter method for an instance variable</choice>
+      <choice correct="false">To create a setter method for an instance variable</choice>
+      <choice correct="false">To protect an instance variable from being modified externally</choice>
+      <choice correct="true">All of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

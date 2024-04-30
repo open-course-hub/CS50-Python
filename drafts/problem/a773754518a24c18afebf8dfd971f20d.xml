@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is a unit test framework?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">A collection of tools and libraries for writing and running unit tests</choice>
+                <choice correct="false">A set of rules for writing unit tests</choice>
+                <choice correct="false">A type of software that automatically runs unit tests</choice>
+                <choice correct="false">None of the above</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

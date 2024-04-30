@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>Which of the following is a checked exception?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="false">IndexOutOfBoundsException</choice>
+                <choice correct="false">ArithmeticException</choice>
+                <choice correct="false">NullPointerException</choice>
+                <choice correct="true">IOException</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

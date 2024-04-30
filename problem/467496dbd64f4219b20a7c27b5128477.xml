@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What does the term "exception" refer to in the context of programming?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">A problem in the code that needs to be resolved</choice>
+      <choice correct="false">A desired outcome in the program</choice>
+      <choice correct="false">A comment that explains the code</choice>
+      <choice correct="false">A variable that stores error messages</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

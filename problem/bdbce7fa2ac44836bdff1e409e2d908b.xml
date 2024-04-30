@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What does the strip() method do to a string?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">Removes white space from the left and right of the string</choice>
+      <choice correct="false">Capitalizes the first letter of each word in the string</choice>
+      <choice correct="false">Converts the string to lowercase</choice>
+      <choice correct="false">Replaces all spaces in the string with underscores</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

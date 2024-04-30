@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>Which of the following is NOT a valid way to iterate over a list in Python?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="false">for loop</choice>
+      <choice correct="true">while loop</choice>
+      <choice correct="false">for item in list:</choice>
+      <choice correct="false">for item in range(len(list)):</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

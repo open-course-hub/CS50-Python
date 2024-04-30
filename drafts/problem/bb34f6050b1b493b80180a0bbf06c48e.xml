@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the main focus of the beginning of the course?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Functions and variables</choice>
+                <choice correct="false">Object-oriented programming</choice>
+                <choice correct="false">Data structures and algorithms</choice>
+                <choice correct="false">Web development</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

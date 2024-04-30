@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the subtopic of the lecture?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Introduction</choice>
+                <choice correct="false">Functions</choice>
+                <choice correct="false">Arrays</choice>
+                <choice correct="false">Pointers</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

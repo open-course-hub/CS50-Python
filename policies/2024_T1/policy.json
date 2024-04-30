@@ -1,0 +1,88 @@
+{
+    "course/2024_T1": {
+        "cert_html_view_enabled": true,
+        "cert_name_long": "Harvard CS50 Introduction to Python",
+        "cert_name_short": "Harvard CS50 Introduction to Python",
+        "certificates": {
+            "certificates": [
+                {
+                    "course_title": "",
+                    "description": "Description of the certificate",
+                    "editing": false,
+                    "id": 1192831344,
+                    "is_active": true,
+                    "name": "Name of the certificate",
+                    "signatories": [
+                        {
+                            "certificate": null,
+                            "id": 312455535,
+                            "name": "",
+                            "organization": "",
+                            "signature_image_path": "",
+                            "title": ""
+                        }
+                    ],
+                    "version": 1
+                }
+            ]
+        },
+        "certificates_display_behavior": "",
+        "course_image": "Python-logo-notext.svg.png",
+        "discussion_topics": {
+            "General": {
+                "id": "course"
+            }
+        },
+        "display_name": "cs50 python",
+        "enrollment_start": "2024-04-27T00:00:00Z",
+        "graceperiod": "",
+        "highlights_enabled_for_messaging": true,
+        "instructor_info": {
+            "instructors": []
+        },
+        "language": "en",
+        "learning_info": [],
+        "minimum_grade_credit": 0.8,
+        "self_paced": true,
+        "start": "2024-04-28T00:00:00Z",
+        "tabs": [
+            {
+                "course_staff_only": false,
+                "name": "Course",
+                "type": "courseware"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Progress",
+                "type": "progress"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Dates",
+                "type": "dates"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Discussion",
+                "type": "discussion"
+            },
+            {
+                "course_staff_only": false,
+                "is_hidden": true,
+                "name": "Wiki",
+                "type": "wiki"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Textbooks",
+                "type": "textbooks"
+            }
+        ],
+        "xml_attributes": {
+            "filename": [
+                "course/2024_T1.xml",
+                "course/2024_T1.xml"
+            ]
+        }
+    }
+}

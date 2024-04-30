@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the keyword used to introduce a conditional statement in Python?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">if</choice>
+      <choice correct="false">then</choice>
+      <choice correct="false">elseif</choice>
+      <choice correct="false">switch</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

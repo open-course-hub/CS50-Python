@@ -1,0 +1,15 @@
+<course cert_html_view_enabled="true" cert_name_long="Harvard CS50 Introduction to Python" cert_name_short="Harvard CS50 Introduction to Python" certificates="{&quot;certificates&quot;: [{&quot;course_title&quot;: &quot;&quot;, &quot;description&quot;: &quot;Description of the certificate&quot;, &quot;editing&quot;: false, &quot;id&quot;: 1192831344, &quot;is_active&quot;: true, &quot;name&quot;: &quot;Name of the certificate&quot;, &quot;signatories&quot;: [{&quot;certificate&quot;: null, &quot;id&quot;: 312455535, &quot;name&quot;: &quot;&quot;, &quot;organization&quot;: &quot;&quot;, &quot;signature_image_path&quot;: &quot;&quot;, &quot;title&quot;: &quot;&quot;}], &quot;version&quot;: 1}]}" certificates_display_behavior="" course_image="Python-logo-notext.svg.png" display_name="cs50 python" enrollment_start="2024-04-27T00:00:00Z" graceperiod="" highlights_enabled_for_messaging="true" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" minimum_grade_credit="0.8" self_paced="true" start="2024-04-28T00:00:00Z">
+  <chapter url_name="1c74c754f82d486bb125e53f41c1e4ea"/>
+  <chapter url_name="5b5d3ab988604323b1e2b060f69175e6"/>
+  <chapter url_name="9835284e0f614e388ecd12afeba52e84"/>
+  <chapter url_name="aa406a35cdac43ef9c18a68c62e6d183"/>
+  <chapter url_name="7ece221c7b514ddb8590fcd4a09d3ae7"/>
+  <chapter url_name="11c0d6fc1a444137a4e924a254bf8900"/>
+  <chapter url_name="8c61177339cb4adaa052501b1b86455b"/>
+  <chapter url_name="5a212687b3b1406cb545c64a00f734e4"/>
+  <chapter url_name="44b45d9c7c63438eb2ec5c01df8026c8"/>
+  <chapter url_name="5bb48ecc73444043a06fd2f4e078ab7d"/>
+  <chapter url_name="ce965236346c4826b679a3d91ea1e6a9"/>
+  <chapter url_name="a5fbce2f163c41e793edec8f410759af"/>
+  <wiki slug="OpenCourse.PY101.2024_T1"/>
+</course>

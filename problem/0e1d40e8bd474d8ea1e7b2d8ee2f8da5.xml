@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the topic of the lecture?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">Loops</choice>
+      <choice correct="false">Data Structures</choice>
+      <choice correct="false">Algorithms</choice>
+      <choice correct="false">Object-Oriented Programming</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

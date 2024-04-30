@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of the walrus operator in Python?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To assign a value from right to left and ask a Boolean question on the same line</choice>
+      <choice correct="false">To combine two lines of code into one</choice>
+      <choice correct="false">To simplify if statements</choice>
+      <choice correct="false">To make code more readable</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

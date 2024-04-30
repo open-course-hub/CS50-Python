@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of the 'init' method in a Python class?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To initialize an object's attributes</choice>
+      <choice correct="false">To create a new object</choice>
+      <choice correct="false">To validate user input</choice>
+      <choice correct="false">To handle exceptions</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

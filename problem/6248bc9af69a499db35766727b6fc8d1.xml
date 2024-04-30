@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What type of error is indicated by the message "name 'x' is not defined"?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">NameError</choice>
+      <choice correct="false">ValueError</choice>
+      <choice correct="false">TypeError</choice>
+      <choice correct="false">SyntaxError</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

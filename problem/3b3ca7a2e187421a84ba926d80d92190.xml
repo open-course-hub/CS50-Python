@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of the sys.exit function?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To print a message and exit the program.</choice>
+      <choice correct="false">To check for errors and exit the program early.</choice>
+      <choice correct="false">To access the argument vector.</choice>
+      <choice correct="false">To iterate over a list.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

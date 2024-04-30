@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>Which variable stores the list of command-line arguments passed to a Python program?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">sys.argv</choice>
+      <choice correct="false">sys.args</choice>
+      <choice correct="false">args.sys</choice>
+      <choice correct="false">argv.sys</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

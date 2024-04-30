@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What keywords are used to try to do something optimistically and if something goes wrong do something else in Python?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="false">try and accept</choice>
+      <choice correct="false">try and catch</choice>
+      <choice correct="true">try and except</choice>
+      <choice correct="false">try and handle</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

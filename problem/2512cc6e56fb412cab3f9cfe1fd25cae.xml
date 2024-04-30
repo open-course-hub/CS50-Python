@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What does the else keyword do in a try/except block?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">Executes code if no exception is raised</choice>
+      <choice correct="false">Executes code if an exception is raised</choice>
+      <choice correct="false">Executes code if a specific exception is raised</choice>
+      <choice correct="false">Executes code if a value error is raised</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

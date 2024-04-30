@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of the filter function in Python?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To apply a function to each element in a sequence and return a new sequence containing only the elements for which the function returns True</choice>
+      <choice correct="false">To sort a sequence of elements</choice>
+      <choice correct="false">To remove duplicate elements from a sequence</choice>
+      <choice correct="false">To convert a sequence of elements to a different data type</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

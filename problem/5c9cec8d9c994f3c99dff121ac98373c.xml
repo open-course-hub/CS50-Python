@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>Which special method in Python is used to define how an object should be represented as a string?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">__str__</choice>
+      <choice correct="false">__repr__</choice>
+      <choice correct="false">__init__</choice>
+      <choice correct="false">__eq__</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

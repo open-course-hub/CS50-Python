@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of the validate_dopy program?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To validate US users' email addresses</choice>
+      <choice correct="false">To generate random email addresses</choice>
+      <choice correct="false">To check for duplicate email addresses</choice>
+      <choice correct="false">To format email addresses according to a specific style</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

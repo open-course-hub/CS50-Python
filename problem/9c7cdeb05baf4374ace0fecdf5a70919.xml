@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of File I/O in programming?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To store information long-term on a computer</choice>
+      <choice correct="false">To improve the speed of program execution</choice>
+      <choice correct="false">To protect data from unauthorized access</choice>
+      <choice correct="false">To facilitate communication between programs</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

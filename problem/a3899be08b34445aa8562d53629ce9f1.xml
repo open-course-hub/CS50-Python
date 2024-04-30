@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>Which method is used to define a class method in the Sorting Hat example?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="false">def init(self)</choice>
+      <choice correct="false">def init(CLS)</choice>
+      <choice correct="true">@class method</choice>
+      <choice correct="false">def sort(self)</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>Why is the code in the reference text broken?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">The conditions are not mutually exclusive.</choice>
+      <choice correct="false">The code is missing an else statement.</choice>
+      <choice correct="false">The code uses elif instead of if.</choice>
+      <choice correct="false">The code is missing a colon after the if statement.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

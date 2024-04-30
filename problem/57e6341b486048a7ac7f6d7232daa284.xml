@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the main topic of this lecture?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">Loops in Python</choice>
+      <choice correct="false">Conditionals in Python</choice>
+      <choice correct="false">Functions in Python</choice>
+      <choice correct="false">Variables in Python</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

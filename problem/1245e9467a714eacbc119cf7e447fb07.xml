@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of type hints in Python?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="false">To enforce strong typing in Python programs</choice>
+      <choice correct="true">To provide additional information about variable types to development tools</choice>
+      <choice correct="false">To prevent users from making type errors</choice>
+      <choice correct="false">To improve the performance of Python programs</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What library automates the process of catching exceptions in unit testing?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">Pi Test</choice>
+      <choice correct="false">Assert</choice>
+      <choice correct="false">Assertion Error</choice>
+      <choice correct="false">Python</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

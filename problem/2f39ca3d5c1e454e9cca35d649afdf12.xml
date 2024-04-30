@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What does the modulo operator do?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">Calculates the remainder after dividing one number by another</choice>
+      <choice correct="false">Calculates the percentage of one number to another</choice>
+      <choice correct="false">Calculates the square root of a number</choice>
+      <choice correct="false">Calculates the absolute value of a number</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

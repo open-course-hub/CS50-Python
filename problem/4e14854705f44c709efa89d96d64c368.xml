@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of the 'with' keyword in Python when working with files?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To automatically close the file after use</choice>
+      <choice correct="false">To open the file in read-only mode</choice>
+      <choice correct="false">To write data to the file</choice>
+      <choice correct="false">To check if the file exists</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

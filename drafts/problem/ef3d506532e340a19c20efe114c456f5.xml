@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the purpose of breaking down larger problems?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">To solve them in smaller steps</choice>
+                <choice correct="false">To transition to conditionals</choice>
+                <choice correct="false">To express yourself logically</choice>
+                <choice correct="false">To create reference texts</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

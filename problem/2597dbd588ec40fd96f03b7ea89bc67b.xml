@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>Which library is used to handle image files in Python?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="false">pillow</choice>
+      <choice correct="false">image</choice>
+      <choice correct="true">PIL</choice>
+      <choice correct="false">graphics</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

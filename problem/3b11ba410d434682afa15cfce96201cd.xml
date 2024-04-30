@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of using a loop in the provided code?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To continuously prompt the user for input until a valid integer is provided</choice>
+      <choice correct="false">To handle exceptions that may occur during input conversion</choice>
+      <choice correct="false">To execute the code multiple times</choice>
+      <choice correct="false">To break out of the loop when the user provides a valid integer</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

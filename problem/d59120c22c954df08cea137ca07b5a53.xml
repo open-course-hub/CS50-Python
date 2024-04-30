@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the name of the program used in the lecture?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">Visual Studio Code</choice>
+      <choice correct="false">Google Docs</choice>
+      <choice correct="false">Microsoft Word</choice>
+      <choice correct="false">Terminal</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

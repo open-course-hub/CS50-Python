@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the sub-section title of the video?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">Bugs and Debugging</choice>
+      <choice correct="false">Variables and Data Types</choice>
+      <choice correct="false">Control Flow</choice>
+      <choice correct="false">Arrays</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

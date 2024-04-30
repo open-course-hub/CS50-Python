@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of unit tests?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To check the correctness of individual functions or modules</choice>
+      <choice correct="false">To test the overall functionality of the system</choice>
+      <choice correct="false">To find bugs in the code</choice>
+      <choice correct="false">To improve the code coverage</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

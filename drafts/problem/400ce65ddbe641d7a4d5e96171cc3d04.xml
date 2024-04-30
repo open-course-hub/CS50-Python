@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is a side effect in programming?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="false">An action or verb that lets you do something in the program</choice>
+                <choice correct="false">A string of text that is printed to the screen</choice>
+                <choice correct="false">An input to a function that influences its behavior</choice>
+                <choice correct="true">A visual or audio effect that a function can have</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

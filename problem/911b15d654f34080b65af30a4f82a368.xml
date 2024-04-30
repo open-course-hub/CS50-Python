@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the main benefit of using libraries?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">They save time by providing pre-written code.</choice>
+      <choice correct="false">They improve code security.</choice>
+      <choice correct="false">They make code more difficult to maintain.</choice>
+      <choice correct="false">They are always up-to-date with the latest software versions.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

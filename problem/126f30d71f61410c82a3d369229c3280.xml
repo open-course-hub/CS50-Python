@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>Where can you find additional documentation on Python's features?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="false">Google Search</choice>
+      <choice correct="true">docs.python.org</choice>
+      <choice correct="false">Python's official website</choice>
+      <choice correct="false">Stack Overflow</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

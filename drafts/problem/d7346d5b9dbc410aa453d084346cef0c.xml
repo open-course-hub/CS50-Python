@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is a method?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="false">A function that is defined within an object</choice>
+                <choice correct="false">A function that is defined outside of an object</choice>
+                <choice correct="false">A function that is called using the dot operator</choice>
+                <choice correct="true">All of the above</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

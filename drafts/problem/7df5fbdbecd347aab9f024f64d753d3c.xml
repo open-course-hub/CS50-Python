@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the difference between a class and an object?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">A class is a template for creating objects, while an object is an instance of a class</choice>
+                <choice correct="false">An object is a template for creating classes, while a class is an instance of an object</choice>
+                <choice correct="false">A class and an object are the same thing</choice>
+                <choice correct="false">None of the above</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

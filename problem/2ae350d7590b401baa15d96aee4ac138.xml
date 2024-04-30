@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What does I/O stand for?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">Input/Output</choice>
+      <choice correct="false">Information/Operation</choice>
+      <choice correct="false">Instruction/Operation</choice>
+      <choice correct="false">Input/Output Queue</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

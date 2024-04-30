@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is a syntax error?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">A problem with the code that prevents it from running.</choice>
+      <choice correct="false">An error that occurs while the code is running.</choice>
+      <choice correct="false">An error caused by incorrect input from the user.</choice>
+      <choice correct="false">An error that is caused by a hardware malfunction.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the difference between a text file and a binary file?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Text files contain human-readable text, while binary files contain non-human-readable data.</choice>
+                <choice correct="false">Text files are smaller than binary files.</choice>
+                <choice correct="false">Binary files are faster to read and write than text files.</choice>
+                <choice correct="false">There is no difference between text files and binary files.</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

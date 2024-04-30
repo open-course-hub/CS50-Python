@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What function in Python is used to open a file?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">open</choice>
+      <choice correct="false">close</choice>
+      <choice correct="false">read</choice>
+      <choice correct="false">write</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

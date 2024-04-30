@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the data structure that stores a collection of key-value pairs?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">Dictionary</choice>
+      <choice correct="false">List</choice>
+      <choice correct="false">Tuple</choice>
+      <choice correct="false">Set</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of using a set in Python?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To eliminate duplicate values from a collection</choice>
+      <choice correct="false">To sort values in ascending order</choice>
+      <choice correct="false">To convert a list to a dictionary</choice>
+      <choice correct="false">To create a new object</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of the format.py program?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To reformat user input in a consistent format</choice>
+      <choice correct="false">To validate user input</choice>
+      <choice correct="false">To reject user input with errors</choice>
+      <choice correct="false">To store user input in a CSV file</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

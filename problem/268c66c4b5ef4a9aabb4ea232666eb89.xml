@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of dictionary comprehensions?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To create a dictionary with keys and values in a concise manner</choice>
+      <choice correct="false">To iterate over a list and perform operations on each element</choice>
+      <choice correct="false">To create a new list with transformed elements from an existing list</choice>
+      <choice correct="false">To create a dictionary with keys and values from a list of tuples</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>Which keyword allows you to tell a function that a variable is not local and should be edited?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">global</choice>
+      <choice correct="false">local</choice>
+      <choice correct="false">change</choice>
+      <choice correct="false">edit</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

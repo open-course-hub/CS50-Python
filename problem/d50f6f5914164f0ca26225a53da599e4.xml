@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of the get_int function?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To get an integer from the user</choice>
+      <choice correct="false">To print an error message if the user enters a non-integer</choice>
+      <choice correct="false">To break out of a loop</choice>
+      <choice correct="false">To return a value</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

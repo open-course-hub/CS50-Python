@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the keyword in Python that is similar to a switch statement in other languages?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">match</choice>
+      <choice correct="false">switch</choice>
+      <choice correct="false">case</choice>
+      <choice correct="false">if-elif-else</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of the map function in Python?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To apply a function to every element of a sequence</choice>
+      <choice correct="false">To create a new list from an existing list</choice>
+      <choice correct="false">To sort a list in ascending order</choice>
+      <choice correct="false">To find the maximum value in a list</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

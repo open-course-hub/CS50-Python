@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of the import keyword in Python?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To import the contents of a module</choice>
+      <choice correct="false">To create a new module</choice>
+      <choice correct="false">To define a function</choice>
+      <choice correct="false">To load data from a file</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

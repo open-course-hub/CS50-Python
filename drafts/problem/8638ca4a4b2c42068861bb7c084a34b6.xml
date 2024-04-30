@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What does the following regular expression match?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">abc</choice>
+                <choice correct="false">ab</choice>
+                <choice correct="false">abcd</choice>
+                <choice correct="false">a</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

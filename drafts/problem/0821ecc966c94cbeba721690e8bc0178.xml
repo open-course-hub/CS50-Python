@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is an object?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">A collection of data and methods</choice>
+                <choice correct="false">A collection of variables and functions</choice>
+                <choice correct="false">A collection of constants and variables</choice>
+                <choice correct="false">A collection of arrays and objects</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

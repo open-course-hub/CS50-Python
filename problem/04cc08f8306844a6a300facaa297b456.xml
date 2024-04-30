@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of using a single asterisk (*) when passing a list to a function?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To unpack the list into individual arguments</choice>
+      <choice correct="false">To pass the list as a single argument</choice>
+      <choice correct="false">To iterate over the list elements</choice>
+      <choice correct="false">To convert the list to a tuple</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

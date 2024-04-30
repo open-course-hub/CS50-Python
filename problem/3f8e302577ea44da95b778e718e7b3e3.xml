@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of pytest?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To automate the testing of code</choice>
+      <choice correct="false">To provide error messages when code fails</choice>
+      <choice correct="false">To create unit tests</choice>
+      <choice correct="false">To run code without errors</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

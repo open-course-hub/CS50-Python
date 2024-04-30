@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of using a generator in Python?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="false">To return all values at once</choice>
+      <choice correct="true">To return values one at a time</choice>
+      <choice correct="false">To create a list of values</choice>
+      <choice correct="false">To iterate over a range of values</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

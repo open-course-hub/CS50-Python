@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>According to the reference text, what is an API?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">An application programming interface</choice>
+      <choice correct="false">A website that provides data</choice>
+      <choice correct="false">A type of computer program</choice>
+      <choice correct="false">A data format</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

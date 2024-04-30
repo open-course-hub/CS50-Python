@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>Which of the following is the correct syntax for using the enumerate function?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">for i, student in enumerate(students):</choice>
+      <choice correct="false">for i in enumerate(students):</choice>
+      <choice correct="false">for student in enumerate(students):</choice>
+      <choice correct="false">for i, student in students:</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

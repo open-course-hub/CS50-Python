@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>How do you specify numeric formatting in Python?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">f-strings</choice>
+      <choice correct="false">print statements</choice>
+      <choice correct="false">locale settings</choice>
+      <choice correct="false">the round() function</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

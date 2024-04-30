@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>Which of the following is a method for the list class in Python?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">append</choice>
+      <choice correct="false">strip</choice>
+      <choice correct="false">lowercase</choice>
+      <choice correct="false">init</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

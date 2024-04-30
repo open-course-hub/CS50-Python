@@ -1,0 +1,8 @@
+[
+    {
+        "content": "<section class=\"welcome-message\">\n  <h2>Welcome!</h2>\n  \n  <p>Dear Students,</p>\n  \n  <p>We are excited to have you on board for this learning journey. Whether you're new to programming or looking to expand your skills with Python, this course offers a comprehensive and engaging experience.</p>\n  \n  <p>Throughout the course, you'll explore the fundamentals of Python programming, covering topics such as functions, variables, conditionals, loops, and more. Our hands-on approach ensures that you not only understand the concepts but also gain practical experience through exercises inspired by real-world programming problems.</p>\n  \n  <p>Our dedicated team of instructors and staff are here to support you every step of the way. If you have any questions, concerns, or feedback, please don't hesitate to reach out. Your success is our priority!</p>\n  \n  <p>We wish you all the best as you embark on this learning adventure. Let's dive in and make the most of this opportunity together!</p>\n  \n  <p>Best regards,</p>\n  <p>Open Course</p>\n</section>\n",
+        "date": "April 27, 2024",
+        "id": 1,
+        "status": "visible"
+    }
+]

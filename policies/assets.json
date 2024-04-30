@@ -1,0 +1,50 @@
+{
+    "Python-logo-notext.svg.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "PY101",
+            "name": "Python-logo-notext.svg.png",
+            "org": "OpenCourse",
+            "revision": null,
+            "run": "2024_T1",
+            "tag": "c4x"
+        },
+        "displayname": "Python-logo-notext.svg.png",
+        "filename": "asset-v1:OpenCourse+PY101+2024_T1+type@asset+block@Python-logo-notext.svg.png",
+        "import_path": "Python-logo-notext.svg.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenCourse",
+            "PY101",
+            "thumbnail",
+            "Python-logo-notext.svg-png.jpg",
+            null
+        ]
+    },
+    "hqdefault.jpg": {
+        "contentType": "image/jpeg",
+        "content_son": {
+            "category": "asset",
+            "course": "PY101",
+            "name": "hqdefault.jpg",
+            "org": "OpenCourse",
+            "revision": null,
+            "run": "2024_T1",
+            "tag": "c4x"
+        },
+        "displayname": "hqdefault.jpg",
+        "filename": "asset-v1:OpenCourse+PY101+2024_T1+type@asset+block@hqdefault.jpg",
+        "import_path": "hqdefault.jpg",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "OpenCourse",
+            "PY101",
+            "thumbnail",
+            "hqdefault.jpg",
+            null
+        ]
+    }
+}

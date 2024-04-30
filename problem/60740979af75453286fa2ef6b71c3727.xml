@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What does random.randint(1, 10) do in Python?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">Generates a random integer between 1 and 10, inclusive.</choice>
+      <choice correct="false">Generates a random floating-point number between 1 and 10.</choice>
+      <choice correct="false">Generates a random string with a length between 1 and 10.</choice>
+      <choice correct="false">Shuffles a list of numbers between 1 and 10.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

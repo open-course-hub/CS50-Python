@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>In Python, what syntax is used to take a slice of a list?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">[start:end]</choice>
+      <choice correct="false">{start:end}</choice>
+      <choice correct="false">(start, end)</choice>
+      <choice correct="false">start:end</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

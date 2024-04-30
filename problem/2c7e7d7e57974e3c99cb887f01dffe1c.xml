@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>In the code, what is the purpose of the 'and' keyword?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To combine multiple conditions into a single expression</choice>
+      <choice correct="false">To assign a value to a variable</choice>
+      <choice correct="false">To compare two values</choice>
+      <choice correct="false">To print a message to the console</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

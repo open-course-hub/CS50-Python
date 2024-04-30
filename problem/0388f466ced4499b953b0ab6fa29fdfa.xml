@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>There are two ways to use custom-made python libraries:</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">Run the library-module directly or import it</choice>
+      <choice correct="false">Import the functions from the library-module</choice>
+      <choice correct="false">Install the library-module first</choice>
+      <choice correct="false">Only run the library-module directly</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

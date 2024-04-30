@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of regular expressions?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To match patterns in text</choice>
+      <choice correct="false">To generate random text</choice>
+      <choice correct="false">To encrypt data</choice>
+      <choice correct="false">To compress files</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

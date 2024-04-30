@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the purpose of file I/O?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">To read from and write to files</choice>
+                <choice correct="false">To connect to databases</choice>
+                <choice correct="false">To create and edit images</choice>
+                <choice correct="false">To send emails</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

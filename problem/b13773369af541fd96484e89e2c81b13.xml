@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of using the else keyword in Python?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="false">To catch all possible conditions</choice>
+      <choice correct="false">To avoid asking unnecessary questions</choice>
+      <choice correct="false">To reduce the complexity of a program</choice>
+      <choice correct="true">All of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

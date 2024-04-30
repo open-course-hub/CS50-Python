@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the difference between a tuple and a list in Python?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">Tuples are immutable, while lists are mutable.</choice>
+      <choice correct="false">Lists are immutable, while tuples are mutable.</choice>
+      <choice correct="false">Tuples and lists are both immutable.</choice>
+      <choice correct="false">Tuples and lists are both mutable.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

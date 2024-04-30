@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of the code snippet provided in the reference text?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To create a simple calculator that performs addition</choice>
+      <choice correct="false">To demonstrate how to declare variables in Python</choice>
+      <choice correct="false">To explain the difference between strings and numbers in Python</choice>
+      <choice correct="false">To show how to get input from the user</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>Why is it important to test code with multiple inputs?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To cover corner cases and ensure accuracy.</choice>
+      <choice correct="false">To catch all possible errors.</choice>
+      <choice correct="false">To improve the efficiency of the code.</choice>
+      <choice correct="false">To reduce the amount of code written.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

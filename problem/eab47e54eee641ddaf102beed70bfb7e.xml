@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of adding a parameter to the getint function?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To make the function more reusable</choice>
+      <choice correct="false">To hardcode the variable name x</choice>
+      <choice correct="false">To remove the need for caller to provide a prompt</choice>
+      <choice correct="false">None of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

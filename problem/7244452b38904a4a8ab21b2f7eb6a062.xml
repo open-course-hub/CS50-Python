@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What does the 'elif' keyword in Python stand for?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">Else If</choice>
+      <choice correct="false">Else If Not</choice>
+      <choice correct="false">Else If All</choice>
+      <choice correct="false">Else If Any</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

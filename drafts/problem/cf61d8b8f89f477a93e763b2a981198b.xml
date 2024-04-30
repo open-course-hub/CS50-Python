@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the ideal time to write unit tests?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="false">After the code is complete</choice>
+                <choice correct="false">Before the code is written</choice>
+                <choice correct="true">During the coding process</choice>
+                <choice correct="false">None of the above</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

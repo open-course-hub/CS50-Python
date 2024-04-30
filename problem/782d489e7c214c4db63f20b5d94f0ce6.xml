@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the error when trying to print the value of name in the hello function?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">NameError: name is not defined</choice>
+      <choice correct="false">TypeError: name is not a string</choice>
+      <choice correct="false">ValueError: name is not a valid input</choice>
+      <choice correct="false">AttributeError: name does not have a print method</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

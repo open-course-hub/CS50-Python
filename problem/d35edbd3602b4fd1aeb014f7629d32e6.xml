@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is a library in Python?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">A file of code written by others that can be used in your own programs</choice>
+      <choice correct="false">A collection of data that can be accessed by your programs</choice>
+      <choice correct="false">A type of data structure that can be used to store data</choice>
+      <choice correct="false">A function that can be called from your programs</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

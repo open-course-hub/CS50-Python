@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of a method in a class?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To perform actions related to the class's data</choice>
+      <choice correct="false">To store data about the class's instances</choice>
+      <choice correct="false">To define special functions for the class</choice>
+      <choice correct="false">To create new instances of the class</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

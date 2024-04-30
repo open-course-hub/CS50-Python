@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of the len function?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To determine the number of elements in a list</choice>
+      <choice correct="false">To create a range of values</choice>
+      <choice correct="false">To iterate over a list</choice>
+      <choice correct="false">To print the elements of a list</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

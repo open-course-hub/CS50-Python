@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>Which of the following is NOT a valid condition for a loop?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">True</choice>
+                <choice correct="false">False</choice>
+                <choice correct="false">0</choice>
+                <choice correct="false">Non-zero value</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>Which function in Python's re library matches from the start of a string?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">re.match</choice>
+      <choice correct="false">re.search</choice>
+      <choice correct="false">re.findall</choice>
+      <choice correct="false">re.sub</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>Which function is used to express that an exception is expected to be raised?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="false">assert</choice>
+      <choice correct="true">raises</choice>
+      <choice correct="false">expect</choice>
+      <choice correct="false">check</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

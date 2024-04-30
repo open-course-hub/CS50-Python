@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice">
+  <multiplechoiceresponse>
+    <label>What is the purpose of using re.search instead of re.sub?</label>
+    <description>You can add an optional tip or note related to the prompt like this.</description>
+    <choicegroup>
+      <choice correct="true">To conditionally search for a pattern in a string</choice>
+      <choice correct="false">To replace all occurrences of a pattern in a string</choice>
+      <choice correct="false">To split a string based on a pattern</choice>
+      <choice correct="false">To remove a specific pattern from a string</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>
